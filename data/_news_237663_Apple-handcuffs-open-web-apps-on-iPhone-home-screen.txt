@@ -1,0 +1,2 @@
+Exclusive Apple's iOS mobile operating system runs web applications at significantly slower speeds when they're launched from the iPhone or iPad home screen in ""full-screen mode"" as opposed to in the Apple Safari browser, and at the same time, the operating system hampers the performance of these apps in other ways, according to tests from multiple developers and The Register.
+ All Content by Mehr News Agency is licensed under a Creative Commons Attribution 4.0 International License.
